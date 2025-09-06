@@ -1,0 +1,10 @@
+==== Password Check ====
+Time: 2025-09-06 08:28:17.576542
+Password Entered: nothing
+Strength: Weak ❌
+Suggestions:
+- Password should be at least 8 characters long.
+- Add at least one uppercase letter.
+- Add at least one digit.
+- Add at least one special character.
+
